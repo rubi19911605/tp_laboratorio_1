@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1587095009 source:c:\users\srta. ponda\desktop\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tp1.h"
+	"tp1.c"
+
+1587174975 c:\users\srta. ponda\desktop\tp1\tp1.h
+
+1587175481 c:\users\srta. ponda\desktop\tp1\tp1.c
+	<stdio.h>
+
+1587175138 source:c:\users\srta. ponda\desktop\tp1\tp1.c
+	<stdio.h>
+
+1587176101 source:c:\users\srta. ponda\desktop\trabajos practicos\calculadora\tp1\tp1.c
+	<stdio.h>
+
+1587176793 source:c:\users\srta. ponda\desktop\trabajos practicos\calculadora\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tp1.h"
+
+1587176104 c:\users\srta. ponda\desktop\trabajos practicos\calculadora\tp1\tp1.h
+
