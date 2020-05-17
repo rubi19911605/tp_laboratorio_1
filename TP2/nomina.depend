@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1589683369 source:c:\users\srta. ponda\desktop\nomina\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"ArrayEmployees.h"
+
+1589683253 c:\users\srta. ponda\desktop\nomina\arrayemployees.h
+
+1589679905 source:c:\users\srta. ponda\desktop\nomina\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+
